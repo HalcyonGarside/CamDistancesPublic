@@ -1,0 +1,1 @@
+	This is a small solution I wrote a few years ago that uses a frame of reference and two pictures from two different cameras to determine the distance between the two cameras.  Thanks to Rafael Radkowski for making his Setforge library public (https://github.com/rafael-radkowski/setforge).  
